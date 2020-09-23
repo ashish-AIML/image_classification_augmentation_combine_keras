@@ -30,6 +30,6 @@ The model gets saved, and then run [test](test.py) to verify the predictions.
 ---
 ## License & Copyright
 
-@ Teric-AI Team
+@ Ashish & Team
 
 ***
